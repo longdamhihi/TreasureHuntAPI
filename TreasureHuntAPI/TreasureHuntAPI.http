@@ -1,0 +1,6 @@
+@TreasureHuntAPI_HostAddress = http://localhost:5017
+
+GET {{TreasureHuntAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
